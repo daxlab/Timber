@@ -1,4 +1,5 @@
 # Timber
+[![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/naman14?utm_source=github&utm_medium=button&utm_term=naman14&utm_campaign=github)  
 [![Build Status](https://travis-ci.org/naman14/Timber.svg?branch=master)](https://travis-ci.org/naman14/Timber)
 
 [WIP][BETA]-Material Design Music Player
